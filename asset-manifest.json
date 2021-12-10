@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SovTechApp/static/css/main.a011f478.chunk.css",
+    "main.js": "/SovTechApp/static/js/main.dbddf9ff.chunk.js",
+    "main.js.map": "/SovTechApp/static/js/main.dbddf9ff.chunk.js.map",
+    "runtime-main.js": "/SovTechApp/static/js/runtime-main.5a3dba4e.js",
+    "runtime-main.js.map": "/SovTechApp/static/js/runtime-main.5a3dba4e.js.map",
+    "static/js/2.f5cef386.chunk.js": "/SovTechApp/static/js/2.f5cef386.chunk.js",
+    "static/js/2.f5cef386.chunk.js.map": "/SovTechApp/static/js/2.f5cef386.chunk.js.map",
+    "static/js/3.b2502465.chunk.js": "/SovTechApp/static/js/3.b2502465.chunk.js",
+    "static/js/3.b2502465.chunk.js.map": "/SovTechApp/static/js/3.b2502465.chunk.js.map",
+    "index.html": "/SovTechApp/index.html",
+    "static/css/main.a011f478.chunk.css.map": "/SovTechApp/static/css/main.a011f478.chunk.css.map",
+    "static/js/2.f5cef386.chunk.js.LICENSE.txt": "/SovTechApp/static/js/2.f5cef386.chunk.js.LICENSE.txt",
+    "static/media/coder.c54f1134.png": "/SovTechApp/static/media/coder.c54f1134.png",
+    "static/media/languages.a44227c3.png": "/SovTechApp/static/media/languages.a44227c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a3dba4e.js",
+    "static/js/2.f5cef386.chunk.js",
+    "static/css/main.a011f478.chunk.css",
+    "static/js/main.dbddf9ff.chunk.js"
+  ]
+}
